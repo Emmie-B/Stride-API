@@ -1,0 +1,21 @@
+{
+  "name": "stride",
+  "version": "1.0.0",
+  "description": "kommute is a mobility fintech platform that provides a seamless and secure way to pay for public transportation while offering users cash pay back.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+    
+  },
+  "keywords": [],
+  "author": "Emmie B",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^1.5.1",
+    "@solana/web3.js": "^1.90.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0"
+  }
+}
